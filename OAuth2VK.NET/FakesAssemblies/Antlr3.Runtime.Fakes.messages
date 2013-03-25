@@ -1,0 +1,38 @@
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate stub for Antlr.Runtime.BitSet: type is sealed.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate stub for Antlr.Runtime.CharStreamConstants: type is sealed.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate stub for Antlr.Runtime.SpecialStateTransitionHandler: type is sealed.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate stub for Antlr.Runtime.GrammarRuleAttribute: type is sealed.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate stub for Antlr.Runtime.TokenChannels: type is sealed.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate stub for Antlr.Runtime.TokenTypes: type is sealed.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate stub for Antlr.Runtime.Tokens: type is sealed.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate stub for Antlr.Runtime.Tokens`1: type is sealed.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate stub for Antlr.Runtime.Tree.AntlrRuntime_BaseTreeDebugView: type is sealed.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate stub for Antlr.Runtime.Tree.TreeConstants: type is sealed.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.IIntStream: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.ICharStream: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.ITokenStream: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.ITokenStreamInformation: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.IToken: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Debug.IDebugEventListener: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.SpecialStateTransitionHandler: type is a delegate.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.IRuleReturnScope: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.IAstRuleReturnScope: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.IAstRuleReturnScope`1: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.ITokenSource: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.IRuleReturnScope`1: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.TokenRewriteStream+InsertBeforeOp: type is not visible to exported or assembly(Antlr3.Runtime.Fakes).
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.TokenRewriteStream+ReplaceOp: type is not visible to exported or assembly(Antlr3.Runtime.Fakes).
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.TokenRewriteStream+RewriteOperation: type is not visible to exported or assembly(Antlr3.Runtime.Fakes).
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.AntlrRuntime_BaseTreeDebugView: type is not visible to exported or assembly(Antlr3.Runtime.Fakes).
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.ITree: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.ITreeAdaptor: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.ITreeNodeStream: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.BufferedTreeNodeStream+StreamIterator: type is not visible to exported or assembly(Antlr3.Runtime.Fakes).
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.DotTreeGenerator+<DefineEdges>d__9: type is not supported because of internal limitations.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.DotTreeGenerator+<DefineNodes>d__0: type is not supported because of internal limitations.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.ITreeVisitorAction: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.TreeWizard+ActionVisitor: type is not visible to exported or assembly(Antlr3.Runtime.Fakes).
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.TreeWizard+FindTreeWizardContextVisitor: type is not visible to exported or assembly(Antlr3.Runtime.Fakes).
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.TreeWizard+FindTreeWizardVisitor: type is not visible to exported or assembly(Antlr3.Runtime.Fakes).
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.TreeWizard+IContextVisitor: type is an interface.
+D:\Dropbox\OAuth2VK.NET\ASP-MVC-4\Fakes\Antlr3.Runtime.fakes : warning : Cannot generate shim for Antlr.Runtime.Tree.TreeWizard+VisitTreeWizardContextVisitor: type is not visible to exported or assembly(Antlr3.Runtime.Fakes).
